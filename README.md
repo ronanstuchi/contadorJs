@@ -12,4 +12,4 @@ Caso você queira ir além, aqui estão algumas dicas de coisas para tentar:
 
 3 - Mudar a cor do texto em CURRENT_NUMBER para vermelho quando o número for negativo.
 
-Todos desafios propostos foram foram realizados!
+Desafios propostos foram feitos!
